@@ -1,4 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Richard Kerr ====================================================================================================================================  Full-Stack Developer --------------------  I am a full-stack developer with experience creating React web apps, designing the UI, developing the backend server and database, and deploying it on Heroku.  * 🌍  I'm based in Easton * ✉️  You can contact me at [rkerr022@gmail.com](mailto:rkerr022@gmail.com) * 🚀  I'm currently working on [Smart Brain App](http://richard-smartbrain-633537118670.herokuapp.com) * 🧠  I'm learning React * 🤝  I'm open to collaborating on Projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Richard Kerr ====================================================================================================================================  Full-Stack Developer --------------------  I am a full-stack developer with experience creating React web apps, designing the UI, developing the backend server and database, and deploying it on Heroku.
+* 🌍  I'm based in Easton
+* ✉️  You can contact me at [rkerr022@gmail.com](mailto:rkerr022@gmail.com)
+* 🚀  I'm currently working on [Smart Brain App](http://richard-smartbrain-633537118670.herokuapp.com)
+* 🧠  I'm learning React
+* 🤝  I'm open to collaborating on Projects
 
 ### Skills  
 
