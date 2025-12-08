@@ -33,5 +33,5 @@ Currently focusing on Python, SQL, and backend work to transition into data-focu
 
 Over time I’m aiming to keep a few solid, well-documented projects here rather than a pile of half-finished ones.
 
-I’m open to junior backend, Python developer, or data-focused engineering opportunities.
+I’m open to backend, Python developer, or data-focused engineering opportunities.
 
