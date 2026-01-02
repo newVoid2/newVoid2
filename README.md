@@ -17,7 +17,11 @@ Currently focusing on Python, SQL, and backend work to transition into data-focu
 
 ## Tech I'm comfortable with
 
-* **Languages:** JavaScript, Python, C, C++
+Current focus:
+* Python
+
+Prior experience:
+* **Languages:** JavaScript, C, C++
 * **Frontend:** React, HTML, CSS, Sass
 * **Backend:** Node.js, Express
 * **Data & Storage:** PostgreSQL
