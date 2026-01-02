@@ -1,6 +1,7 @@
 # Hi, I'm Richard 👋
 
-I'm a software developer based in Easton, Pennsylvania. Most of my experience so far has been building web applications end to end — from the UI to the backend and database, and getting everything deployed and running.
+I’m a Python-focused developer based in Easton, Pennsylvania, currently building scripts and small projects to strengthen my skills in automation, data handling, and practical problem solving. This profile reflects ongoing learning and experimentation.
+
 
 These days I'm steadily tightening up my fundamentals with more focus on Python, backend development, and using code to work with data. I like projects that are practical, data-driven, and that I can iterate on over time.
 
