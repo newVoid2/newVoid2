@@ -1,6 +1,6 @@
 # Hi, I'm Richard 👋
 
-I’m a Python-focused developer based in Easton, Pennsylvania, currently building scripts and small projects to strengthen my skills in automation, data handling, and practical problem solving. This profile reflects ongoing learning and experimentation.
+I’m a Python learner and aspiring developer based in Easton, Pennsylvania. Most of my current work focuses on building small scripts and projects to practice automation, problem-solving, and working with real tools like file systems, databases, and third-party libraries.
 
 
 These days I'm steadily tightening up my fundamentals with more focus on Python, backend development, and using code to work with data. I like projects that are practical, data-driven, and that I can iterate on over time.
