@@ -11,7 +11,6 @@ Currently focusing on Python, SQL, and backend work to transition into data-focu
 * 🤝 I'm open to collaborating on focused, realistic projects.
 * ✉️ You can reach me at **[rkerr022@gmail.com](mailto:rkerr022@gmail.com)**
 * 🌐 Portfolio: [richardkerr.netlify.app](https://richardkerr.netlify.app)
-* 💼 LinkedIn: [linkedin.com/in/richarddkerr](https://www.linkedin.com/in/richarddkerr)
 
 ---
 
